@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
             }
             else
             {
-                Toast.makeText(MainActivity.this, "Berhasil Loginnnn" + Nama_mhs + " Cuy", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this, "Berhasil Login" + Nama_mhs + " Cuy", Toast.LENGTH_SHORT).show();
             }
 
         }
